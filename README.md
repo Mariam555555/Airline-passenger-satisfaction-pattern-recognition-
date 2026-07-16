@@ -35,7 +35,7 @@ The Receiver Operating Characteristic (ROC) curve compares the performance of ou
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
-   `git clone https://github.com/YourUsername/Pattern-Project.git`
+   `git clone https://github.com/Mariam555555/Airline-passenger-satisfaction-pattern-recognition-.git`
 2. Navigate to the project directory:
    `cd Pattern-Project`
 3. Install the required dependencies:
